@@ -77,7 +77,7 @@ Luca Lin saw an opportunity, stating, "if you can build a system that is optimiz
 
 ### For Further Study
 
- <iframe width="1440" height="597" src="https://www.youtube.com/embed/qUA0N77mXhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [YouTube Video Interview - Dorm Room Start-Up Defies Odds, Rises as Large-Scale Quant Fund · Christina Qi](https://www.youtube.com/watch?v=qUA0N77mXhY)
 
 ---
 
