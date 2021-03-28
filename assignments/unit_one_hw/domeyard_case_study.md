@@ -32,9 +32,7 @@ While a small operation, the trio, by networking through their class contacts at
 
 - Due to limited capital, Domeyard had to build their own proprietary systems. From trading desks, servers, networks, and redundant backup power - these were just physical. Domeyard faced bigger obstacles like writing data feed handlers and execution gateways for the APIs in order to collect data and place orders.
 
-```
-Luca Lin saw an opportunity, stating, "if you can build a system that is optimized for each individual exchange, you can have a big latency adantage."
-```
+> Luca Lin saw an opportunity, stating, "if you can build a system that is optimized for each individual exchange, you can have a big latency adantage."
 
 - Aside from a proprietary execution system and network infrastructure, built in-house, Domeyard also utilizes other tech stacks into their HFT fund, like:
   - C/C++ in a UNIX environment
@@ -63,9 +61,7 @@ Luca Lin saw an opportunity, stating, "if you can build a system that is optimiz
 
 - Christina Qi has been vocal in her disatisfaction with the world of hedge funds. Plainly saying, they just make billionaires richer. She has also said...
 
-```
-"I grew up in a small town in northern Utah, far away from the pits of Wall Street. My parents, teachers, and role models always taught me to do something good for this world; to serve my community and the underprivileged. And yet, despite my desire to make a difference, I ended up in high frequency trading, or HFT, where I was contributing absolutely nothing to society. As I gained prominence in my industry, the cognitive dissonance grew and grew, until everything blew up. I became a Wall Street sellout - a finance snake - expanding the fortunes of the richest people in the world."
-```
+> "I grew up in a small town in northern Utah, far away from the pits of Wall Street. My parents, teachers, and role models always taught me to do something good for this world; to serve my community and the underprivileged. And yet, despite my desire to make a difference, I ended up in high frequency trading, or HFT, where I was contributing absolutely nothing to society. As I gained prominence in my industry, the cognitive dissonance grew and grew, until everything blew up. I became a Wall Street sellout - a finance snake - expanding the fortunes of the richest people in the world."
 
 - Companies like Robinhood, Webull, WealthFront, and Betterment have democratized the trading of securities and getting invested in market portfolios. With this in mind, and keeping in mind what Christina Qi has said, why haven't we seen the same type of democratizing in the hedge fund industry?
 
